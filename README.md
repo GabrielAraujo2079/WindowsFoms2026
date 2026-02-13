@@ -1,7 +1,7 @@
 Pra quem estiver com dificuldades em fazer o banco de dados eu disponibilizei pra sala toda o meu banco de dados:
 
 
-´´´
+`````
 -- Criação do banco
 CREATE DATABASE BoaDB;
 GO
@@ -64,5 +64,5 @@ CREATE TABLE ItemVenda (
         FOREIGN KEY (ProdutoId) REFERENCES Produto(Id)
 );
 GO
-´´´
+`````
 

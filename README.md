@@ -1,4 +1,4 @@
-Pra quem estiver com dificuldades em fazer o banco de dados eu disponibilizei pra sala toda o meu banco de dados:
+Pra quem estiver com dificuldades em fazer o banco de dados eu disponibilizei pra sala toda o meu banco de dados creditos ao otto quem me ajudou no esqueleto (Embora o tipo esteja inutil na minha logica)
 
 
 `````
